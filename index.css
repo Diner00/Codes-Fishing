@@ -1,0 +1,13 @@
+@import "font.css";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.headings h1.head{
+	color: red;
+	   font-family: "Playwrite DE VA Guides", cursive;
+  font-weight: 400;
+  font-style: normal
+}
